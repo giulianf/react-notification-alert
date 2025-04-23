@@ -135,7 +135,12 @@ Bootstrap will require the following:
 npm install --save jquery
 ```
 
+```
+yarn build
+yarn postbuild
+npm publish --access public
 
+```
 [CHANGELOG]: ./CHANGELOG.md
 
 [LICENSE]: ./LICENSE.md
